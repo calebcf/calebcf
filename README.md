@@ -5,7 +5,6 @@
 - 🌱 I’m currently studying Java, MySql, HTML and CSS
 - 👀 I’m interested in Java, Spring and HTML 
 - 😄 Pronouns: he/his 
-## 
 
 <div align="center">
   <a href="https://github.com/calebcf">
